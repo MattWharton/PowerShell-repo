@@ -1,1 +1,1 @@
-get-service BITS
+get-service BITS | Format-List
