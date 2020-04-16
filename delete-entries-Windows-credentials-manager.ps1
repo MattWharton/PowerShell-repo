@@ -1,0 +1,1 @@
+﻿ cmdkey /list | Where-Object {$_ -match 'keyword'} | ForEach-Object {cmdkey /delete "$($_.split()[-1])"}
