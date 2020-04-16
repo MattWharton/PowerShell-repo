@@ -1,7 +1,5 @@
-# hello-world
-Just another repository
-Testing the creation of a repository and a branch within github.
+## PowerShell Scripts
 
-## PowerShell Script Tutorial Instructions and Structure
+Just a generic PowerShell repo for stuff I've thrown together to use at work.
 
 > CHALLENGE: Try to write MOAR PowerShell!
