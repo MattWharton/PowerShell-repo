@@ -36,7 +36,7 @@ Foreach ($User in $Users) {
  
  <p><strong>Cegedim email address:</strong> $NewEmail<br />
  <strong>Username:</strong> $Usrnm<br />
- <strong>Password:</strong> Cegedim!</p>
+ <strong>Password:</strong> password1!</p>
  
  <p>If you require any assistance please contact itsupport@activus.co.uk</p>
  
